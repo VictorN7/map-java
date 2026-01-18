@@ -3,6 +3,7 @@ package application;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
+import entity.Product;
 
 public class Program {
 
